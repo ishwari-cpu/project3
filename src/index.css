@@ -1,0 +1,36 @@
+li
+{
+
+  padding: 20px;
+  display: inline;
+  border: 2px solid black;
+  
+}
+
+.myLink
+{
+  text-decoration: none;
+
+}
+h1{
+  text-align: center;
+}
+
+ul{
+  margin-top: 70px;
+}
+.myLink:hover
+{
+  color: red;
+}
+
+li:hover
+{
+  background-color: cyan;
+  padding: 23px;
+
+}
+.myStud
+{
+  text-decoration: none;
+}
